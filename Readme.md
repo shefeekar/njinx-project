@@ -1,4 +1,4 @@
-# njinx-project for static website
+# njinx-project for static website shefeek2.com
 
 
 
